@@ -1,5 +1,7 @@
 # PlantLog - Plant Care Tracker
 
+## OVERVIEW
+
 PlantLog is a plant care management app that helps you track your plants and their watering schedules. The app uses SwiftData for persistent storage and includes camera integration for capturing plant photos.
 
 
@@ -14,6 +16,9 @@ PlantLog is a plant care management app that helps you track your plants and the
 - Full accessibility support with VoiceOver labels and hints
 - Modern Liquid Glass UI design (iOS 26+)
 
+## SCREENSHOTS
+
+Screenshots of the running App can be found in Docs package, showcasing the implemented features.
 
 ## REQUIREMENTS
 
