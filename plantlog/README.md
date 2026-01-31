@@ -16,6 +16,16 @@ PlantLog is a plant care management app that helps you track your plants and the
 - Full accessibility support with VoiceOver labels and hints
 - Modern Liquid Glass UI design (iOS 26+)
 
+## SCREENSHOTS
+
+![Plant list view showing multiple plants with their watering schedules](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.27.26)
+![Delete Option from Plant list view](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.27.40)
+![Plant detail view with photo and watering information](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.28.19)
+![Plant calendar view showing history](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.28.35)
+![Add/Edit plant form with photo picker and schedule options](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.28.45)
+![Add/Edit plant form with interval options](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.29.00)
+![Add/Edit plant form with weekday options](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.29.08)
+![Notification reminder for watering a plant](docs/Simulator Screenshot - iPhone 17 Pro - 2026-01-31 at 08.30.01)
 
 ## REQUIREMENTS
 
