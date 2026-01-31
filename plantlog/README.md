@@ -1,11 +1,11 @@
-PlantLog - Plant Care Tracker
+# PlantLog - Plant Care Tracker
 
-OVERVIEW
+## OVERVIEW
 
 PlantLog is a plant care management app that helps you track your plants and their watering schedules. The app uses SwiftData for persistent storage and includes camera integration for capturing plant photos.
 
 
-FEATURES
+## FEATURES
 
 - Add and manage multiple plants with names, species, and photos
 - Flexible watering schedules (interval-based or specific weekdays)
@@ -17,14 +17,14 @@ FEATURES
 - Modern Liquid Glass UI design (iOS 26+)
 
 
-REQUIREMENTS
+## REQUIREMENTS
 
 - iOS 26.0 or later
 - Xcode 16 or later
 - Swift 6.0 or later
 
 
-INSTALLATION & SETUP
+## INSTALLATION & SETUP
 
 1. Clone or download the project
 2. Open the project in Xcode
@@ -33,8 +33,7 @@ INSTALLATION & SETUP
 4. Grant camera permissions when prompted
 
 
-
-CAMERA SETUP FOR MAC DEVELOPMENT
+## CAMERA SETUP FOR MAC DEVELOPMENT
 
 When running the app in the iOS Simulator on a Mac, camera functionality requires RocketSim to be installed.
 
@@ -45,7 +44,7 @@ Download RocketSim: https://www.rocketsim.app
 Once installed, the app will automatically detect and use RocketSim's camera capabilities when running in the simulator. The app checks for RocketSim at launch and loads the connection framework if available.
 
 
-NOTIFICATIONS
+## NOTIFICATIONS
 
 The app uses local notifications to remind you when your plants need watering. Notifications are scheduled based on each plant's watering schedule (either every X days or on specific weekdays).
 
@@ -55,7 +54,7 @@ The app uses local notifications to remind you when your plants need watering. N
 - Notifications are automatically rescheduled after marking a plant as watered
 
 
-ACCESSIBILITY
+## ACCESSIBILITY
 
 PlantLog is built with full accessibility support:
 
